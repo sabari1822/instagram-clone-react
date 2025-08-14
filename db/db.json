@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "key": "post1",
+      "username": "nature_lover",
+      "profilePic": "https://randomuser.me/api/portraits/women/44.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "caption": "Sunset vibes 🌅 #nature #sunset",
+      "likes": 124
+    },
+    {
+      "id": "2",
+      "key": "post2",
+      "username": "travel_with_me",
+      "profilePic": "https://randomuser.me/api/portraits/men/32.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "caption": "Beach day! 🏖️ #travel #beachlife",
+      "likes": 98
+    },
+    {
+      "id": "3",
+      "key": "post3",
+      "username": "foodie_journal",
+      "profilePic": "https://randomuser.me/api/portraits/women/68.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
+      "caption": "Best pasta in town 🍝 #foodie #yum",
+      "likes": 210
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "key": "post1",
+    "username": "sri_sabari",
+    "profilePic": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1"
+  },
+  "suggestions": [
+    {
+      "id": "11",
+      "username": "wanderlust_diary",
+      "profilePic": "https://randomuser.me/api/portraits/women/12.jpg",
+      "reason": "Followed by travel_with_me + 2 more"
+    },
+    {
+      "id": "12",
+      "username": "urban_sketcher",
+      "profilePic": "https://randomuser.me/api/portraits/men/19.jpg",
+      "reason": "Popular in your area"
+    },
+    {
+      "id": "13",
+      "username": "pet_paradise",
+      "profilePic": "https://randomuser.me/api/portraits/women/36.jpg",
+      "reason": "Followed by foodie_journal"
+    },
+    {
+      "id": "14",
+      "username": "tech_trends",
+      "profilePic": "https://randomuser.me/api/portraits/men/7.jpg",
+      "reason": "New to Instagram"
+    },
+    {
+      "id": "15",
+      "username": "daily_quotes",
+      "profilePic": "https://randomuser.me/api/portraits/women/50.jpg",
+      "reason": "Suggested for you"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "key": "post1",
+      "username": "nature_lover",
+      "profilePic": "https://randomuser.me/api/portraits/women/44.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d"
+    },
+    {
+      "id": "2",
+      "key": "post2",
+      "username": "travel_with_me",
+      "profilePic": "https://randomuser.me/api/portraits/men/32.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1516117172878-fd2c41f4a759"
+    },
+    {
+      "id": "3",
+      "key": "post3",
+      "username": "foodie_journal",
+      "profilePic": "https://randomuser.me/api/portraits/women/68.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1521747116042-5a810fda9664"
+    }
+  ],
+  "followers": []
+}
